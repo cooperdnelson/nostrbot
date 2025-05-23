@@ -7,9 +7,6 @@ huggingface spaces
 libraries
 
 
-Awesome, this is the perfect moment to lock it in a real Spec + Scope document! ✍️
-I’ll write it so it’s clean enough to put straight into your GitHub repo as your project’s first doc (README.md or SCOPE.md).
-
 📜 Specification and Scope: Nostr Bot + Hugging Face Space Integration
 
 🎯 Project Overview
